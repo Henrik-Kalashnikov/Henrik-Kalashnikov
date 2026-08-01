@@ -22,8 +22,8 @@ I enjoy designing strongly typed architectures, optimizing performance, and crea
 # **![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)**
 # **![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)**
 # **![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)**
-# **![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)**
 # **![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)**
+# **![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)**
 # **![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)**
 # **![Paper](https://img.shields.io/badge/-Paper-4E4FEB?style=flat-square)**
 
