@@ -4,8 +4,8 @@
 - Unity games with C#
 - Roblox development using Luau
 - Web applications with TypeScript & React
-- Discord bots using JavaScript
-- Minecraft server plugins ecosystems with Java (Paper/Spigot/Purpur)
+- Discord bots using JavaScript & Discord.js
+- Minecraft server plugins with Java (Bukkit/Spigot/Paper/Purpur)
 - Desktop applications using Electron and Node.js
 
 I enjoy designing strongly typed architectures, optimizing performance, and creating systems that are clean, reliable, and easy to evolve.
@@ -48,8 +48,9 @@ I enjoy designing strongly typed architectures, optimizing performance, and crea
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![YML](https://img.shields.io/badge/-YML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
-![Paper](https://img.shields.io/badge/-Paper-4E4FEB?style=flat-square)
+![Bukkit](https://img.shields.io/badge/-Bukkit-F7A600?style=flat-square)
 ![Spigot](https://img.shields.io/badge/-Spigot-F7C41F?style=flat-square)
+![Paper](https://img.shields.io/badge/-Paper-4E4FEB?style=flat-square)
 ![Purpur](https://img.shields.io/badge/-Purpur-6a3d9a?style=flat-square)
 
 **Programming Languages:**  
